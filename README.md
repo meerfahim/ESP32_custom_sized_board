@@ -5,12 +5,12 @@ This repository contains the KiCad files for a custom-sized PCB designed to hous
 Key Features:
 
 Custom Size: Designed to fit your specific application needs (dimensions: customizable).
-Open Source Hardware: Fully open-source design for easy modification and community contributions.
+Open Source Hardware: A fully open-source design for easy modification and community contributions.
 
 Getting Started:
 
 Clone the repository:
-git clone https://github.com/your_username/ESP32_custom_sized_board.git
+git clone https://github.com/meerfahim/ESP32_custom_sized_board.git
 
 Install KiCad: Download and install KiCad for your operating system.
 Open the Project Files: Locate the kicad_pcb file and open it in KiCad.
